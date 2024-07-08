@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowlidharan&label=Profile%20views&color=0e75b6&style=flat" alt="mowlidharan" /> </p>
 
-- 🌱 I’m currently learning **LLM, Flask, Prompt, Langchain**
+- 🌱 I’m currently learning **LLM, Prompt, Langchain, AI/ML**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Matplotlib, OpenAI, Gemini, Prompt, Langchain**
+- 💬 Ask me about **Python, Numpy, Pandas, Matplotlib, OpenAI, Gemini, Prompt, Langchain, PyTorch, Deep Learning, AI / ML**
 
 - 📫 How to reach me **mowlidharanarumugam@gmail.com**
 
